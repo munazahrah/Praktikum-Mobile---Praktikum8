@@ -1,4 +1,4 @@
-# Praktikum8
+# Praktikum 8
 
 Project Modul 8 - Navigasi & Mengirim Data (Arguments)
 
